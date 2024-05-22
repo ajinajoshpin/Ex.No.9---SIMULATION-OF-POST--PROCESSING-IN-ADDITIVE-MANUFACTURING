@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 11-05-2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/ajinajoshpin/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148514578/54a2e778-f7fb-4092-abd8-2f05219a23a8)
+![image](https://github.com/ajinajoshpin/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148514578/e4065629-0db0-4d3c-a2a4-fd3901a7ab2e)
+![image](https://github.com/ajinajoshpin/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148514578/1481c964-5d04-49b2-875e-c9796fe6c193)
 
-### Name:
-### Register Number:
+### Name:ajina joshpin
+### Register Number:2122233230008
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
